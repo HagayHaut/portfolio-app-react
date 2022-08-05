@@ -13,6 +13,10 @@ function App() {
       <About />
       <Skills />
       <p style={{ backgroundColor: "#0a192f" }}>&nbsp;</p>
+      <p style={{ backgroundColor: "#0a192f" }}>&nbsp;</p>
+      <p style={{ backgroundColor: "#0a192f" }}>&nbsp;</p>
+      <p style={{ backgroundColor: "#0a192f" }}>&nbsp;</p>
+      <p style={{ backgroundColor: "#0a192f" }}>&nbsp;</p>
       <Work />
       <p style={{ backgroundColor: "#0a192f" }}>&nbsp;</p>
       <p style={{ backgroundColor: "#0a192f" }}>&nbsp;</p>

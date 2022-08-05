@@ -17,7 +17,7 @@ const About = () => {
               <p>Hi. I'm Hagay, thanks for visiting. Please take a look around.</p>
             </div>
             <div>
-              <p>I'm a graduate of Flatiron School Software Engineering program, and a professional learner. I hold a degree in Environmental Science, and am have transitioned to technology after a successful career leading teams to improve public lands. The desire to understand and improve the systems around me brought me here, and the endless opportunity for learning and growth keep me here.</p>  
+              <p>I'm a graduate of Flatiron School Software Engineering program, and a professional learner. I hold a degree in Environmental Science, and have transitioned to technology after a successful career leading teams to improve public lands. The desire to understand and improve the systems around me brought me here, and the endless opportunity for learning and growth keep me here.</p>  
             </div>
           </div>
       </div>
