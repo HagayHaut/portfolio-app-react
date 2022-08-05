@@ -1,6 +1,9 @@
 import React from 'react';
 import algoDB from '../assets/algoDB.png';
 import spats from '../assets/spats.png';
+import taskier from '../assets/taskier.png';
+import mergesort from '../assets/mergesort.png';
+import fractaltree from '../assets/fractaltree.png';
 
 const Work = () => {
   return (
@@ -65,7 +68,7 @@ const Work = () => {
           </div>
             {/* Grid Item */}
           <div
-            style={{ backgroundImage: `url(${algoDB})` }}
+            style={{ backgroundImage: `url(${mergesort})` }}
             className='shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div'
           >
             {/* Hover Effects */}
@@ -88,7 +91,7 @@ const Work = () => {
             </div>
           </div>
           <div
-            style={{ backgroundImage: `url(${spats})` }}
+            style={{ backgroundImage: `url(${taskier})` }}
             className='shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div'
           >
             {/* Hover Effects */}
@@ -112,7 +115,7 @@ const Work = () => {
           </div>
             {/* Grid Item */}
           <div
-            style={{ backgroundImage: `url(${algoDB})` }}
+            style={{ backgroundImage: `url(${fractaltree})` }}
             className='shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div'
           >
             {/* Hover Effects */}
