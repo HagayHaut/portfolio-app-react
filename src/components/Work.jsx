@@ -78,39 +78,18 @@ const Work = () => {
           >
             {/* Hover Effects */}
             <div className='opacity-0 group-hover:opacity-100'>
-              <span className='text-2xl font-bold text-white tracking-wider'>
-                React JS Application
-              </span>
+              <p className='text-2xl text-center font-bold mb-1 text-white'>
+                Mergesort Visualizer
+              </p>
+              <p className='text-base text-white text-center mb-1'>To better understand the Mergesort algorithm, I animated it.</p>
+              <p className='text-sm text-white text-center mt-2'>React</p>
               <div className='pt-8 text-center'>
-                <a href='/'>
+                <a href='https://hagayhaut.github.io/sorting-visualizer/' target='_blank'>
                   <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>
-                    Demo
+                    Live
                   </button>
                 </a>
-                <a href='/'>
-                  <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>
-                    Code
-                  </button>
-                </a>
-              </div>
-            </div>
-          </div>
-          <div
-            style={{ backgroundImage: `url(${taskier})` }}
-            className='shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div'
-          >
-            {/* Hover Effects */}
-            <div className='opacity-0 group-hover:opacity-100'>
-              <span className='text-2xl font-bold text-white tracking-wider'>
-                React JS Application
-              </span>
-              <div className='pt-8 text-center'>
-                <a href='/'>
-                  <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>
-                    Demo
-                  </button>
-                </a>
-                <a href='/'>
+                <a href='https://github.com/HagayHaut/sorting-visualizer' target='_blank'>
                   <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>
                     Code
                   </button>
@@ -125,16 +104,43 @@ const Work = () => {
           >
             {/* Hover Effects */}
             <div className='opacity-0 group-hover:opacity-100'>
-              <span className='text-2xl font-bold text-white tracking-wider'>
-                React JS Application
-              </span>
+              <p className='text-2xl text-center font-bold mb-1 text-white'>
+                Fractal Tree
+              </p>
+              <p className='text-base text-white text-center mb-1'>Fractal Binary Tree visualizer with user controlled branching angle.</p>
+              <p className='text-sm text-white text-center mt-2'>JS | p5.js | CSS</p>
               <div className='pt-8 text-center'>
-                <a href='/'>
+                <a href='https://hagayhaut.github.io/fractal-tree/' target='_blank'>
                   <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>
-                    Demo
+                    Live
                   </button>
                 </a>
-                <a href='/'>
+                <a href='https://github.com/HagayHaut/fractal-tree' target='_blank'>
+                  <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>
+                    Code
+                  </button>
+                </a>
+              </div>
+            </div>
+          </div>
+          <div
+            style={{ backgroundImage: `url(${taskier})` }}
+            className='shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div'
+          >
+            {/* Hover Effects */}
+            <div className='opacity-0 group-hover:opacity-100'>
+              <p className='text-2xl text-center font-bold mb-1 text-white'>
+                Taskier
+              </p>
+              <p className='text-base text-white text-center mb-1'>Task managing application with reminders, due dates, and dark mode.</p>
+              <p className='text-sm text-white text-center mt-2'>React | Ruby | Sinatra</p>
+              <div className='pt-8 text-center'>
+                <a href='https://taskier.bradbieselin.com/' target='_blank'>
+                  <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>
+                    Live
+                  </button>
+                </a>
+                <a href='https://github.com/HagayHaut/phase-3-project-backend'  target='_blank'>
                   <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>
                     Code
                   </button>
@@ -148,16 +154,14 @@ const Work = () => {
           >
             {/* Hover Effects */}
             <div className='opacity-0 group-hover:opacity-100'>
-              <span className='text-2xl font-bold text-white tracking-wider'>
-                React JS Application
-              </span>
+            <p className='text-2xl text-center font-bold mb-1 text-white'>
+                CodeCracker
+              </p>
+              <p className='text-base text-white text-center mb-1'>Code guessing game with difficulty settings, auto-guesses, and multiple game boards.</p>
+              <p className='text-sm text-white text-center mt-2'>React</p>
               <div className='pt-8 text-center'>
-                <a href='/'>
-                  <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>
-                    Demo
-                  </button>
-                </a>
-                <a href='/'>
+              
+                <a href='https://github.com/HagayHaut/code-cracker' target='_blank'>
                   <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>
                     Code
                   </button>
