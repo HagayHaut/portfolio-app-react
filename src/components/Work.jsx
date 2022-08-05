@@ -30,7 +30,8 @@ const Work = () => {
               <p className='text-2xl text-center font-bold mb-1 text-white'>
                 algoDB
               </p>
-              <p className='text-base text-white text-center'>The Data Structures and Algorithms Database</p>
+              <p className='text-base text-white text-center mb-1'>The Data Structures and Algorithms Database</p>
+              <p className='text-sm text-white text-center mt-2'>React | Ruby on Rails</p>
               <div className='pt-8 text-center'>
                 <a href='http://algo-db.hagayhaut.com/' target='_blank'>
                   <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>
@@ -51,16 +52,18 @@ const Work = () => {
           >
             {/* Hover Effects */}
             <div className='opacity-0 group-hover:opacity-100'>
-              <span className='text-2xl font-bold text-white tracking-wider'>
-                React JS Application
-              </span>
+              <p className='text-2xl text-center font-bold mb-1 text-white'>
+                Spats
+              </p>
+              <p className='text-base text-white text-center mb-1'>Secure App for Tracking User Listening History</p>
+              <p className='text-sm text-white text-center mt-2'>React | Ruby on Rails</p>
               <div className='pt-8 text-center'>
-                <a href='/'>
+                <a href='https://www.loom.com/share/195f7404fd724c3e9d88d3c78704d1b4' target='_blank'>
                   <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>
                     Demo
                   </button>
                 </a>
-                <a href='/'>
+                <a href='https://github.com/HagayHaut/spats-frontend' target='_blank'>
                   <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>
                     Code
                   </button>
