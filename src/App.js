@@ -5,7 +5,6 @@ import Navbar from "./components/Navbar";
 import Skills from "./components/Skills";
 import Work from "./components/Work";
 
-
 function App() {
   return (
     <div>
@@ -13,7 +12,14 @@ function App() {
       <Home />
       <About />
       <Skills />
+      <p style={{ backgroundColor: "#0a192f" }}>&nbsp;</p>
       <Work />
+      <p style={{ backgroundColor: "#0a192f" }}>&nbsp;</p>
+      <p style={{ backgroundColor: "#0a192f" }}>&nbsp;</p>
+      <p style={{ backgroundColor: "#0a192f" }}>&nbsp;</p>
+      <p style={{ backgroundColor: "#0a192f" }}>&nbsp;</p>
+      <p style={{ backgroundColor: "#0a192f" }}>&nbsp;</p>
+      <p style={{ backgroundColor: "#0a192f" }}>&nbsp;</p>
       <Contact />
     </div>
   );
